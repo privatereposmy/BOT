@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/ZauteKm/Stylish-Text-Bot.git /Stylish-Text-Bot
+git clone https://github.com/privatereposmy/Text-Bot.git /Text-Bot
 cd /Stylish-Text-Bot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
