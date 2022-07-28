@@ -1,4 +1,4 @@
-From pyrogram import Client
+from pyrogram import Client
 
 
 BOT = Client(
