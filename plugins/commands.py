@@ -1,6 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from variables import DELAY, PICS
+import os 
 
 @Client.on_message(filters.private & filters.command(["start"]))
 async def start_message(client, msg):
