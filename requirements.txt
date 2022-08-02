@@ -1,4 +1,7 @@
-tgcrypto
-pyrogram==1.2.9
-Pillow
+pyrogram==1.4.1
+TgCrypto
+Pyromod
+sqlalchemy~=1.3.23
+psycopg2-binary
+feedparser
 Heroku3
